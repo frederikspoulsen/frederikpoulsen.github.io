@@ -1,0 +1,108 @@
+<style>
+* {
+              box-sizing: border-box;
+}
+
+body {
+              margin: 0;
+              font-family: Arial, Helvetica, sans-serif;
+              background-color: #e6e6e6;
+}
+
+
+.sidenav {
+              height: 100%;
+              width: 200px;
+              position: fixed;
+              z-index: 1;
+              top: 0;
+              left: 0;
+              background-color: #d7d1c5;
+              overflow-x: auto;
+}
+
+
+
+.sidenav a {
+              color:black;
+              padding: 16px;
+              text-decoration: none;
+              display: block;
+              font-size: 100%;
+              font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.sidenav a:hover {
+              background-color:white;
+              color: black;
+}
+
+.header{
+              margin-left: 
+              padding-left: 5px;
+              text-align: center;
+              background-color: #e6e6e6;
+              border-bottom: 3px solid black;
+                       
+}
+
+
+
+.content {
+              margin-left: 200px;
+              padding-left: 5px;
+              background-color: #e6e6e6;
+              font-size: large;
+              font-weight: 500px;
+              font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.column {
+  margin-left: 0px;
+  padding-left: 5px;
+  text-align: center;
+  background-color: #e6e6e6;
+  border-bottom: 3px solid black; 
+  margin-top: 5px;
+            }
+
+
+.body-section{
+              margin-left: 
+              padding-left: 5px;
+              border-top: 5px;
+              margin-top: 30px;
+                         
+}
+    
+.alignRight {
+              float: right;
+              font-style:inherit;   
+              padding-left: 200px; 
+              margin-top: 50px;
+              font-family: sans-serif;
+              margin-inline-start: 10px;
+              
+   
+            }
+
+        
+.pictures {
+  float: left;  
+  width: 275px;
+  text-align: center;
+  border-bottom:3px solid black ;
+  padding-left: 80px;
+  margin-top: 100px;
+
+}
+
+
+.ambition {
+width: 600px;
+height: 400px;
+margin-top: 50px;
+}
+</style>
